@@ -1,0 +1,8 @@
+site_name: Site de demonstração
+site_author: Info3V 2022 Campus Parnamirim - Vitorias
+
+theme:
+  name: material
+  linguagem: pt
+  pattele:
+   primary: green
